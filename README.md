@@ -1,17 +1,13 @@
-<div style="background-color: whitesmoke; padding: 25px; border-radius: 12px;">
+<h1 align="center">👋 Hola, soy DanoDev</h1>
+<h3 align="center">💻 Full Stack Developer MERN | 🚀 Desarrollo de proyectos web modernos</h3>
 
-<h1 align="center" style="font-family: 'Courier New', monospace;">👋 Hola, soy DanoDev</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace;">💻 Full Stack Developer MERN | 🚀 Desarrollo de proyectos web modernos</h3>
-
-<p align="left" style="font-family: 'Segoe UI', sans-serif;"> 
-  🌱 Actualmente sigo perfeccionando mis conocimientos en <b>JavaScript, TypeScript, React, Node.js, Express y MongoDB</b>  
-  🔭 Trabajo en proyectos de <b>sitios web profesionales, portfolios, e-commerce y APIs REST</b>  
-  ⚡ Apasionado por el <b>diseño moderno, seguridad en la web, optimización SEO y buenas prácticas de desarrollo</b>  
+<p align="left"> 
+  🌱 Actualmente sigo perfeccionando mis conocimientos en **JavaScript, TypeScript, React, Node.js, Express y MongoDB**  
+  🔭 Trabajo en proyectos de **sitios web profesionales, portfolios, e-commerce y APIs REST**  
+  ⚡ Apasionado por el **diseño moderno, seguridad en la web, optimización SEO y buenas prácticas de desarrollo**  
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-</div>
 
 ---
 
