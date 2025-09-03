@@ -40,6 +40,52 @@
 
 ---
 
+<h3 align="left">⚡ Stack MERN (principal)</h3>
+
+**MongoDB** → Base de datos NoSQL orientada a documentos.  
+- ODM: **Mongoose** (para modelar datos en Node.js).  
+- Alternativa: **Prisma** (ORM multi DB).  
+
+**Express.js** → Framework minimalista para Node.js que facilita crear APIs REST y middlewares.  
+
+**React.js** → Librería de JavaScript para construir interfaces de usuario.  
+- **React Router** → ruteo en SPA/MPA.  
+- **Redux Toolkit / Zustand / Context API** → gestión de estado.  
+
+**Node.js** → Entorno de ejecución de JavaScript del lado del servidor.  
+- Se combina con **Express** para el backend.  
+
+---
+
+<h3 align="left">🧩 Lenguajes utilizados</h3>
+
+- **JavaScript (ES6+)**  
+- **TypeScript** (muy usado en proyectos serios por tipado estático)  
+- **HTML5**  
+- **CSS3**
+
+---
+
+<h3 align="left">🎨 Librerías y frameworks complementarios (Frontend)</h3>
+
+- **Axios / Fetch API** → consumo de APIs  
+- **Tailwind CSS** → framework de estilos utility-first  
+- **Bootstrap / Bulma** → componentes listos para usar  
+- **Framer Motion** → animaciones en React  
+- **Formik / React Hook Form** → manejo de formularios  
+- **Zod** → validación de formularios  
+
+---
+
+<h3 align="left">🛡️ Librerías y frameworks complementarios (Backend)</h3>
+
+- **Cors** → seguridad y control de acceso  
+- **Bcrypt / JWT (jsonwebtoken)** → autenticación y seguridad  
+- **process.loadEnvFile()** (en TS) → gestión de variables de entorno  
+- **Postman** → pruebas y documentación de APIs  
+
+---
+
 <h3>📊 Mis estadísticas en GitHub</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
@@ -61,11 +107,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
-</p>
 
 <br>
 <p align="left"> 
-  <img src="[https://komarev.com/ghpvc/?username=DanielFernandez14&label=Visitas%20al%20perfil&color=0e75b6&style=flat](https://github.com/DanielFernandez14)" alt="daniel" /> 
+  <img src="https://komarev.com/ghpvc/?username=DanielFernandez14&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="daniel" /> 
 </p>
 
 ---
