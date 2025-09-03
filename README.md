@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy DanoDev</h1>
+<h1 align="center" style="font-family: 'Courier New', monospace;">👋 Hola, soy DanoDev</h1>
 <h3 align="center">💻 Full Stack Developer MERN | 🚀 Desarrollo de proyectos web modernos</h3>
 
 <p align="left"> 
