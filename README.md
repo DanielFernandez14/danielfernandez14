@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Daniel Matías Fernández</h1>
+<h1 align="center">👋 Hola, soy DanoDev</h1>
 <h3 align="center">💻 Full Stack Developer MERN | 🚀 Desarrollo de proyectos web modernos</h3>
 
 <p align="left"> 
@@ -57,7 +57,10 @@
 
 <h3 align="left">🤝 Conectemos:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/daniel-mat%C3%ADas-fern%C3%A1ndez-b2a88617a/" target="blank">
+  <a href="https://www.linkedin.com/in/daniel-mat%C3%ADas-fern%C3%A1ndez-b2a88617a/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
