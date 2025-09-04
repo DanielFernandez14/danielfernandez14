@@ -2,16 +2,16 @@
 <h3 align="center">💻 Full Stack Developer MERN | 🚀 Desarrollo de proyectos web modernos</h3>
 
 <p align="left"> 
-  🌱 Actualmente sigo perfeccionando mis conocimientos en **JavaScript, TypeScript, React, Node.js, Express y MongoDB**  
-  🔭 Trabajo en proyectos de **sitios web profesionales, portfolios, e-commerce y APIs REST**  
-  ⚡ Apasionado por el **diseño moderno, seguridad en la web, optimización SEO y buenas prácticas de desarrollo**  
+  🌱 Actualmente sigo perfeccionando mis conocimientos en JavaScript, TypeScript, React, Node.js, Express y MongoDB  
+  🔭 Trabajo en proyectos de sitios web profesionales, portfolios, e-commerce y APIs REST  
+  ⚡ Apasionado por el diseño moderno, seguridad en la web, optimización SEO y buenas prácticas de desarrollo  
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ---
 
-<h3 align="left">🛠️ Tecnologías y Herramientas:</h3>
+<h2 align="left">🛠️ Tecnologías y Herramientas:</h2>
 <p align="left"> 
   <!-- Lenguajes base -->
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="left">⚡ Stack MERN (principal)</h3>
+<h2 align="left">⚡ Stack MERN (principal)</h2>
 
 **MongoDB** → Base de datos NoSQL orientada a documentos.  
 - ODM: **Mongoose** (para modelar datos en Node.js).  
@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="left">🧩 Lenguajes utilizados</h3>
+<h2 align="left">🧩 Lenguajes utilizados</h2>
 
 - **JavaScript (ES6+)**  
 - **TypeScript**  
@@ -66,7 +66,7 @@
 
 ---
 
-<h3 align="left">🎨 Librerías y frameworks complementarios (Frontend)</h3>
+<h2 align="left">🎨 Librerías y frameworks complementarios (Frontend)</h2>
 
 - **Axios / Fetch API** → consumo de APIs  
 - **Tailwind CSS** → utility-first  
@@ -77,7 +77,7 @@
 
 ---
 
-<h3 align="left">🛡️ Librerías y frameworks complementarios (Backend)</h3>
+<h2 align="left">🛡️ Librerías y frameworks complementarios (Backend)</h2>
 
 - **Cors** → seguridad y control de acceso  
 - **Bcrypt / JWT (jsonwebtoken)** → autenticación y seguridad  
@@ -86,7 +86,7 @@
 
 ---
 
-<h3>📊 Mis estadísticas en GitHub</h3>
+<h2>📊 Mis estadísticas en GitHub</h2>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielFernandez14&show_icons=true&theme=dark&locale=es&layout=compact" alt="daniel" /></p>  
