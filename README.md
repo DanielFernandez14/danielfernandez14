@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy DanoDev</h1>
-<h3 align="center">💻 Full Stack Developer MERN | 🚀 Desarrollo de proyectos web modernos</h3>
+<h2 align="center">💻 Full Stack Developer MERN | 🚀 Desarrollo de proyectos web modernos</h2>
 
 <p align="left"> 
   🌱 Actualmente sigo perfeccionando mis conocimientos en JavaScript, TypeScript, React, Node.js, Express y MongoDB  
