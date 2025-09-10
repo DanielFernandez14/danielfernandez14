@@ -3,7 +3,7 @@
 
 <p align="left"> 
   🌱 Actualmente sigo perfeccionando mis conocimientos en JavaScript, TypeScript, React, Node.js, Express y MongoDB  
-  🔭 Trabajo en proyectos de sitios web profesionales, portfolios, e-commerce y APIs REST  
+  🔭 Trabajo en proyectos de sitios web profesionales, portfolios, desarrollo de ideas y más.  
   ⚡ Apasionado por el diseño moderno, seguridad en la web, optimización SEO y buenas prácticas de desarrollo  
 </p>
 
@@ -43,14 +43,12 @@
 <h2 align="left">⚡ Stack MERN (principal)</h2>
 
 **MongoDB** → Base de datos NoSQL orientada a documentos.  
-- ODM: **Mongoose** (para modelar datos en Node.js).  
-- Alternativa: **Prisma** (ORM multi DB).  
+- ODM: **Mongoose** (para modelar datos en Node.js).    
 
 **Express.js** → Framework minimalista para Node.js que facilita crear APIs REST y middlewares.  
 
 **React.js** → Librería de JavaScript para construir interfaces de usuario.  
-- **React Router** → ruteo en SPA/MPA.  
-- **Redux Toolkit / Zustand / Context API** → gestión de estado.  
+- **React Router** → ruteo en SPA/MPA.    
 
 **Node.js** → Entorno de ejecución de JavaScript del lado del servidor.  
 - Se combina con **Express** para el backend.  
@@ -68,11 +66,10 @@
 
 <h2 align="left">🎨 Librerías y frameworks complementarios (Frontend)</h2>
 
-- **Axios / Fetch API** → consumo de APIs  
+- **Fetch API** → consumo de APIs  
 - **Tailwind CSS** → utility-first  
 - **Bootstrap / Bulma** → componentes listos  
 - **Framer Motion** → animaciones en React  
-- **Formik / React Hook Form** → formularios  
 - **Zod** → validación  
 
 ---
