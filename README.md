@@ -2,7 +2,7 @@
 <h2 align="center">💻 Full Stack Developer MERN | 🚀 Desarrollo de proyectos web modernos</h2>
 
 <p align="left"> 
-  🌱 Actualmente sigo perfeccionando mis conocimientos en HTML, CSS, JavaScript, TypeScript, React, Node.js. 
+  🌱 Actualmente sigo perfeccionando mis conocimientos en GIT, HTML, CSS, JavaScript, TypeScript, React, Node.js. 
   🔭 Trabajo en proyectos de sitios web profesionales, portfolios, desarrollo de ideas y más.  
   ⚡ Apasionado por el diseño moderno, seguridad en la web, optimización SEO y buenas prácticas de desarrollo  
 </p>
