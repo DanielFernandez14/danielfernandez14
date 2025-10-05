@@ -69,7 +69,8 @@
 - **Fetch API** → consumo de APIs  
 - **Tailwind CSS** → utility-first  
 - **Bootstrap / Bulma** → componentes listos  
-- **Framer Motion** → animaciones en React  
+- **Framer Motion** → animaciones   
+- **GSAP** → animaciones   
 - **Zod** → validación  
 
 ---
